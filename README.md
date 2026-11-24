@@ -6,11 +6,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently working on **[Rapisit]**
 - 🌱 I’m currently learning **[e.g., Cloud Architecture, AI/ML, System Design]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **[e.g., Web Development, JavaScript, Python]**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[rapisit.k@ku.th]**
 
 ---
 

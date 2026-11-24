@@ -1,16 +1,16 @@
 <div align="center">
-  <h1>Hi there, I'm RapisitK 👋</h1>
+  <h1>Hi there, I'm rapisitk-collab 👋</h1>
   <p><b>Software Developer • Problem Solver • Lifelong Learner</b></p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Rapisit]**
+- 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **[e.g., Cloud Architecture, AI/ML, System Design]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **[e.g., Web Development, JavaScript, Python]**
-- 📫 How to reach me: **[rapisit.k@ku.th]**
+- 📫 How to reach me: **[your.email@example.com]**
 
 ---
 
@@ -37,8 +37,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RapisitK&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="RapisitK's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapisitK&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="RapisitK's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rapisitk-collab&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="rapisitk-collab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapisitk-collab&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="rapisitk-collab's Top Languages" />
 </div>
 
 ---
